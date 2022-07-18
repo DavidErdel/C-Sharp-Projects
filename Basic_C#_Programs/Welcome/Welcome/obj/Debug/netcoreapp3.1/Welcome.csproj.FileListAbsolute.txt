@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.exe
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.deps.json
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.json
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.dev.json
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.pdb
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfo.cs
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.pdb
+C:\Users\David\Desktop\Basic_C#_Programs\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.genruntimeconfig.cache
