@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.exe
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.deps.json
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.json
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.dev.json
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.dll
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.pdb
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfo.cs
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.dll
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.pdb
+C:\Users\David\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.genruntimeconfig.cache
