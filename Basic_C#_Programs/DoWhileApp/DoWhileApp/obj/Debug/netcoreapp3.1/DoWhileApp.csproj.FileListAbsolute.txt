@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\bin\Debug\netcoreapp3.1\DoWhileApp.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DoWhileApp\DoWhileApp\obj\Debug\netcoreapp3.1\DoWhileApp.genruntimeconfig.cache
