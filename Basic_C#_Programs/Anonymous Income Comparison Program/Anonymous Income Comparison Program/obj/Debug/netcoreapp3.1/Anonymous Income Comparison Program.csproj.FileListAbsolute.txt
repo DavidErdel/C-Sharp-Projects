@@ -11,3 +11,4 @@ C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\Anonymous Income 
 C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.dll
 C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.pdb
 C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.genruntimeconfig.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.csproj.AssemblyReference.cache
