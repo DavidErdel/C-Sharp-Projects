@@ -36,7 +36,7 @@ namespace ShippingQuote
                 }
                 else
                 {
-                    Console.WriteLine("Your estimated total for shipping this package is: $" + (pwidth * pheight * plength)); //Calculates estimated total by multiplying package width times lenth times height and prints it//
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + (((pwidth * pheight) * plength) * pweight) / 100); //Calculates estimated total by multiplying package width times lenth times height times weight, then dividing the product by 100 and printing the result//
                     Console.WriteLine("Thanks!"); //Thanks the user//
                 }
             }

@@ -11,3 +11,17 @@ C:\Users\David\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\n
 C:\Users\David\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.dll
 C:\Users\David\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.pdb
 C:\Users\David\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.genruntimeconfig.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.genruntimeconfig.cache
