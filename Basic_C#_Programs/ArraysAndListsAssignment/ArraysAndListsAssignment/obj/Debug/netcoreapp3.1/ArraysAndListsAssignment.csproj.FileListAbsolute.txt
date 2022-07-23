@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\netcoreapp3.1\ArraysAndListsAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\netcoreapp3.1\ArraysAndListsAssignment.genruntimeconfig.cache
