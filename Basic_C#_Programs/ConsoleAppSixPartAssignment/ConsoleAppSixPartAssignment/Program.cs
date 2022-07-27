@@ -104,20 +104,20 @@ class Program
 
         //THIS IS PART SIX//
 
-        List<string> letters = new List<string>() { "A", "B", "A", "C" };
-        List<string> letters2 = new List<string>();
+        List<string> letters = new List<string>() { "A", "B", "A", "C" }; //Creates a list of names two of which are identical//
+        List<string> letters2 = new List<string>(); //Creates a blank list//
 
 
-        foreach (string l in letters)
+        foreach (string l in letters) //Starts a foreach loop that will run through the first list and check whether something is true of each string in it//
         {  
-            if (letters2.Contains(l))
+            if (letters2.Contains(l)) //Tells the console to do something if the second list contains the string being checked//
             {
-                Console.WriteLine(l + " is a duplicate.");
+                Console.WriteLine(l + " is a duplicate."); //If the string being checked is in the second list, the console writes that it's a duplicate//
             }
-            else
-            {
-                Console.WriteLine(l + " is unique.");
-                letters2.Add(l);
+            else //Starts an else loop to tell the console to do something else if the string being checked is not in the second list//
+            { 
+                Console.WriteLine(l + " is unique."); ////If the string being checked is not in the second list, the console writes that it's unique//
+                letters2.Add(l); //If the string being checked isn't in the second list this line tells the consul to add it to that list//
             }
         }
 
