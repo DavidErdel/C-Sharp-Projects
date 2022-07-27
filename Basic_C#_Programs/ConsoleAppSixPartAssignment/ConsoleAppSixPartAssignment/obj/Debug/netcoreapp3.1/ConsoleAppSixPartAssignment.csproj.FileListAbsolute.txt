@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppSixPartAssignment.genruntimeconfig.cache
