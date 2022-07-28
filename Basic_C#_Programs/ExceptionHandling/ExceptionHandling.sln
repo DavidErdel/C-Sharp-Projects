@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{459E89AB-731F-42BE-B2B7-F669929AB182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndIntegers", "..\StringsAndIntegers\StringsAndIntegers\StringsAndIntegers.csproj", "{7FCB6ADD-0C0C-46A5-B9FA-7DC5EB973D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459E89AB-731F-42BE-B2B7-F669929AB182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459E89AB-731F-42BE-B2B7-F669929AB182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459E89AB-731F-42BE-B2B7-F669929AB182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459E89AB-731F-42BE-B2B7-F669929AB182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCB6ADD-0C0C-46A5-B9FA-7DC5EB973D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCB6ADD-0C0C-46A5-B9FA-7DC5EB973D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCB6ADD-0C0C-46A5-B9FA-7DC5EB973D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCB6ADD-0C0C-46A5-B9FA-7DC5EB973D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B9221C-DEB6-420C-B998-0068409E28D6}
+	EndGlobalSection
+EndGlobal
