@@ -18,7 +18,7 @@ namespace MainMethodAssignment
             int result = one.add(userAnswer); //Calls the add method and applies it to userAnswer//
             Console.WriteLine(result); //Writes the result of calling the add method and applying it to userAnswer//
 
-            result = one.add(userAnswer); //
+            result = one.add(userAnswer);
             Console.WriteLine(result);
 
             Console.WriteLine("What string do you want to do math operations on?"); //Asks the user which string they want to do math operations on//
