@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Class
 {
-    class StaticClass
+    static class StaticClass //Declares a static class//
     {
-
+        //This class is static//
     }
 }
