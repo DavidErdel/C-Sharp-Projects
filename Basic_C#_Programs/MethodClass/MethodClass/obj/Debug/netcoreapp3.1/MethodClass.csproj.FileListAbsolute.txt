@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.exe
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.deps.json
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.json
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.dev.json
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\David\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfo.cs
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\David\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.genruntimeconfig.cache

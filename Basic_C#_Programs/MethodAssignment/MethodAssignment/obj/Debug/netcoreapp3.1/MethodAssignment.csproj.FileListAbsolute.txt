@@ -12,3 +12,17 @@ C:\Users\David\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcorea
 C:\Users\David\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.dll
 C:\Users\David\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.pdb
 C:\Users\David\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.genruntimeconfig.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.genruntimeconfig.cache
