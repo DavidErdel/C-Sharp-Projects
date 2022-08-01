@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Class
 {
-    class divideByTwo //Creates a class called divideByTwo//
+    public class divideByTwo //Creates a class called divideByTwo//
     {
         public void divBy2(int input) //Creates a void method called divide by two that takes an integer as an input//
         {
