@@ -8,7 +8,7 @@ namespace MethodClass
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)
         {
             Math3 one = new Math3(); //Instantiates the Math3 class//
 
@@ -19,6 +19,8 @@ namespace MethodClass
             int secondAnswer = Convert.ToInt32(Console.ReadLine()); //Converts the user's answer to integer//
 
             one.twoMoreIntegers(firstAnswer, secondAnswer); //Calls the twoIntegers method and passes in the two numbers the user just input//
+
+            one.twoMoreIntegers(input: 3, input2: 4); //Calls the method while specifying the parameters by name//
 
             Console.ReadLine();
         }
