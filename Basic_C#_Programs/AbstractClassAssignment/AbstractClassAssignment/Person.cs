@@ -11,9 +11,7 @@ namespace AbstractClassAssignment
 
         public string LastName { get; set; } //Creates a string property called LastName//
 
-        public void SayName() //Creates the method SayName//
-        {
-        }
+        public abstract void SayName(); //Creates the method SayName//
 
 
     }
