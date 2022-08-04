@@ -34,9 +34,25 @@ namespace LambdaAssignment
                 }
             }
 
-            employees.FindAll(x => x.FirstName == "Joe"); //A lambda expression that finds all employees with the first name Joe//
+            foreach (Employee e in employees2) //Creates a foreach loop that goes through the employees in employees2//
+            {
+                Console.WriteLine(e.FirstName + " " + e.LastName + " " + e.id); //Prints first names, last names, and id numbers for the employees in employees2//
+            }
+            
+            
+            List<Employee> employees3 = employees.FindAll(x => x.FirstName == "Joe").ToList();  //A lambda expression that finds all employees with the first name Joe//
+            foreach (Employee e in employees3) //Creates a foreach loop that goes through the employees in employees3//
+            {
+                Console.WriteLine(e.FirstName + " " + e.LastName + " " + e.id); //Prints first names, last names, and id numbers for the employees in employees3//
+            }
 
-            employees.FindAll(x => x.id > 5); //A lambda expression that finds all employees with an id number greater than 5//
+
+            List<Employee> employees4 = employees.FindAll(y => y.id > 5).ToList();  //A lambda expression that finds all employees with an id number greater than 5//
+            foreach (Employee e in employees4) //Creates a foreach loop that goes through the employees in employees4//
+            {
+                Console.WriteLine(e.FirstName + " " + e.LastName + " " + e.id); //Prints first names, last names, and id numbers for the employees in employees4//
+            }
+
         }
     }
 }
