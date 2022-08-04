@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\LambdaAssignment\\LambdaAssignment\\LambdaAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaAssignment\\LambdaAssignment\\LambdaAssignment.csproj",
       "projectName": "LambdaAssignment",
-      "projectPath": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\LambdaAssignment\\LambdaAssignment\\LambdaAssignment.csproj",
+      "projectPath": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaAssignment\\LambdaAssignment\\LambdaAssignment.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\LambdaAssignment\\LambdaAssignment\\obj\\",
+      "outputPath": "C:\\Users\\David\\source\\repos\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaAssignment\\LambdaAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
