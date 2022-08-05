@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\David\source\repos\C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
