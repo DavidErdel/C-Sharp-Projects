@@ -58,93 +58,16 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                Insuree insuree = new Insuree();
-                insuree.FirstName = userEntry.FirstName;
-                insuree.LastName = userEntry.LastName;
-                insuree.CarYear = userEntry.CarYear;
-                insuree.CarMake = userEntry.CarMake;
-                insuree.CarModel = userEntry.CarModel;
-                insuree.SpeedingTickets = userEntry.SpeedingTickets;
-                insuree.DUI = userEntry.DUI;
-                insuree.CoverageType = userEntry.CoverageType;
-                insuree.DateofBirth = userEntry.DateofBirth;
-                insuree.EmailAddress = userEntry.EmailAddress;
-                insuree.Quote = userEntry.Quote;
 
-                //This block will calculate the user's age//
-                DateTime dateOfBirth = DateTime.Today;
-
-                var today = DateTime.Today;
-                int userAge = today.Year - userEntry.DateofBirth.Year;
-
-                //This begins the calculation of the quote//
-                decimal baseQuote = 50M;
-
-                //This block adds an amount to the quote based on the user's age//
-                if (userAge <= 18)
-                {
-                    insuree.Quote = baseQuote + 100;
-                }
-                else if (userAge >= 19 && userAge <= 25)
-                {
-                    insuree.Quote = baseQuote + 50;
-                }
-                else insuree.Quote = baseQuote + 25;
-
-                //This block adds to the quote based on the year of the user's car//
-                if (userEntry.CarYear < 2000)
-                {
-                    insuree.Quote = insuree.Quote + 25;
-                }
-                else if (userEntry.CarYear > 2015)
-                {
-                    insuree.Quote = insuree.Quote + 25;
-                }
-
-                //This block adds to the quote based on the make and model of the user's car//
-                if (userEntry.CarMake == "Porsche")
-                {
-                    insuree.Quote = insuree.Quote + 25;
-                }
-
-                if (userEntry.CarMake == "Porshe" && (userEntry.CarModel == "911 Carrera"))
-                {
-                    insuree.Quote = insuree.Quote + 50;
-                }
-
-                //This block adds to the quote based on whether the user has had any speeding tickets//
-                int ticketPenalty;
-
-                if (userEntry.SpeedingTickets > 0)
-                {
-                    ticketPenalty = userEntry.SpeedingTickets * 10;
-                    insuree.Quote = insuree.Quote + ticketPenalty;
-                }
-
-                //This block adds to the quote based on whether the user has had any DUIs//
-                decimal duiPenalty;
-
-                if (userEntry.DUI == true)
-                {
-                    duiPenalty = (insuree.Quote / 100 * 25);
-                    insuree.Quote = insuree.Quote + duiPenalty;
-                }
-
-                //This block adds to the quote based on whether the user has selected full coverage//
-                decimal fullCoverageCharge;
-
-                if (userEntry.CoverageType == true)
-                {
-                    fullCoverageCharge = (insuree.Quote / 100 * 50);
-                    insuree.Quote = insuree.Quote + fullCoverageCharge;
-                }
-
-                ViewBag.FinalQuote = insuree.Quote;
+                userEntry.Quote = calQuote(userEntry);
 
 
-                db.Insurees.Add(insuree);
+                db.Insurees.Add(userEntry);
                 db.SaveChanges();
+
+                return RedirectToAction("Index");
             }
+
 
             return View(userEntry);
         }
@@ -161,6 +84,8 @@ namespace CarInsurance.Controllers
             {
                 return HttpNotFound();
             }
+
+
             return View(insuree);
         }
 
@@ -173,6 +98,8 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = calQuote(insuree);
+
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -213,6 +140,99 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }   
+
+        public decimal calQuote(Insuree userEntry)
+        {
+            
+            
+            Insuree insuree = new Insuree();
+            insuree.FirstName = userEntry.FirstName;
+            insuree.LastName = userEntry.LastName;
+            insuree.CarYear = userEntry.CarYear;
+            insuree.CarMake = userEntry.CarMake;
+            insuree.CarModel = userEntry.CarModel;
+            insuree.SpeedingTickets = userEntry.SpeedingTickets;
+            insuree.DUI = userEntry.DUI;
+            insuree.CoverageType = userEntry.CoverageType;
+            insuree.DateofBirth = userEntry.DateofBirth;
+            insuree.EmailAddress = userEntry.EmailAddress;
+            insuree.Quote = userEntry.Quote;
+
+            //This block will calculate the user's age//
+            DateTime dateOfBirth = DateTime.Today;
+
+            var today = DateTime.Today;
+            int userAge = today.Year - userEntry.DateofBirth.Year;
+
+            //This begins the calculation of the quote//
+            decimal baseQuote = 50M;
+
+            //This block adds an amount to the quote based on the user's age//
+            if (userAge <= 18)
+            {
+                insuree.Quote = baseQuote + 100;
+            }
+            else if (userAge >= 19 && userAge <= 25)
+            {
+                insuree.Quote = baseQuote + 50;
+            }
+            else insuree.Quote = baseQuote + 25;
+
+            //This block adds to the quote based on the year of the user's car//
+            if (userEntry.CarYear < 2000)
+            {
+                insuree.Quote = insuree.Quote + 25;
+            }
+            else if (userEntry.CarYear > 2015)
+            {
+                insuree.Quote = insuree.Quote + 25;
+            }
+
+            //This block adds to the quote based on the make and model of the user's car//
+            if (userEntry.CarMake == "Porsche")
+            {
+                insuree.Quote = insuree.Quote + 25;
+                if (userEntry.CarModel == "911 Carrera")
+                {
+                    insuree.Quote = insuree.Quote + 25;
+                }
+            }
+
+            //This block adds to the quote based on whether the user has had any speeding tickets//
+            int ticketPenalty;
+
+            if (userEntry.SpeedingTickets > 0)
+            {
+                ticketPenalty = userEntry.SpeedingTickets * 10;
+                insuree.Quote = insuree.Quote + ticketPenalty;
+            }
+
+            //This block adds to the quote based on whether the user has had any DUIs//
+            decimal duiPenalty;
+
+            if (userEntry.DUI == true)
+            {
+                duiPenalty = (insuree.Quote / 100 * 25);
+                insuree.Quote = insuree.Quote + duiPenalty;
+            }
+
+            //This block adds to the quote based on whether the user has selected full coverage//
+            decimal fullCoverageCharge;
+
+            if (userEntry.CoverageType == true)
+            {
+                fullCoverageCharge = (insuree.Quote / 100 * 50);
+                insuree.Quote = insuree.Quote + fullCoverageCharge;
+                
+            }
+
+
+            ViewBag.FinalQuote = insuree.Quote;
+
+            return insuree.Quote;
+
         }
+
     }
 }
