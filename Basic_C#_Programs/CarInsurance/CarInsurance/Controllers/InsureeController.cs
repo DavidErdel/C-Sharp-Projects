@@ -15,9 +15,14 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
-        
+
         // GET: Insuree
         public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
+        public ActionResult Index()
         {
             return View(db.Insurees.ToList());
         }
@@ -139,7 +144,6 @@ namespace CarInsurance.Controllers
 
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
-                return RedirectToAction("GetQuote");
             }
 
             return View(userEntry);
