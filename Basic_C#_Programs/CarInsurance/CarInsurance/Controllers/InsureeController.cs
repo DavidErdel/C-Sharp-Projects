@@ -109,7 +109,7 @@ namespace CarInsurance.Controllers
 
                 if (userEntry.CarMake == "Porshe" && (userEntry.CarModel == "911 Carrera"))
                 {
-                    insuree.Quote = insuree.Quote + 25;
+                    insuree.Quote = insuree.Quote + 50;
                 }
 
                 //This block adds to the quote based on whether the user has had any speeding tickets//
